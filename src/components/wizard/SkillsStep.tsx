@@ -37,10 +37,10 @@ const skillCategories = [
 ];
 
 const levelColors = {
-  Beginner: 'bg-gray-200',
-  Intermediate: 'bg-blue-400',
-  Advanced: 'bg-indigo-500',
-  Expert: 'bg-purple-600',
+  Beginner: 'text-gray-400',
+  Intermediate: 'text-blue-500',
+  Advanced: 'text-indigo-600',
+  Expert: 'text-purple-600',
 };
 
 export function SkillsStep() {
